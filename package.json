@@ -18,7 +18,7 @@
   "license": "MIT",
   "dependencies": {
     "nan": "^2.3.0",
-    "bindings": "https://github.com/machinomy/node-bindings/archive/v1.3.00001.tar.gz"
+    "bindings": "https://github.com/machinomy/node-bindings/archive/v1.3.00002.tar.gz"
   },
   "devDependencies": {
     "async": "^0.9.0",
